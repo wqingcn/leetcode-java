@@ -1,6 +1,4 @@
-package _234;
-
-
+package com.mark._234;
 
 class Solution {
 

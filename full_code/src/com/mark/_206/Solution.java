@@ -1,4 +1,4 @@
-package _206;
+package com.mark._206;
 
 class Solution {
 
